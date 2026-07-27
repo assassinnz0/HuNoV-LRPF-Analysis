@@ -42,7 +42,7 @@ The base R package `splines` is also used.
 
 The analytical data are deposited separately in Zenodo:
 
-**Dataset DOI:** `[10.5281/zenodo.21502817]`
+**Dataset DOI:** [10.5281/zenodo.21502817](https://doi.org/10.5281/zenodo.21502817)
 
 Required files:
 
@@ -124,4 +124,4 @@ The source code is released under the MIT License. See `LICENSE`.
 
 ## Citation
 
-Please cite the associated article and the archived software release, when available.
+Please cite the associated research article and the Zenodo dataset when using these data. If a fixed software release is archived separately, please also cite the corresponding software DOI.
